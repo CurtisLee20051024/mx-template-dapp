@@ -171,3 +171,5 @@ export { getShardOfAddress };`
   - `LoginMethodsEnum` is replaced by `ProviderTypeEnum`
   - `RawTransactionType` was removed ❌
   - some new types were added, related to UI elements, like [MvxCopyButtonPropsType](https://github.com/multiversx/mx-template-dapp/blob/a98cadfc291321e9874acd7e53632a6b43ca8c59/src/lib/sdkDapp/components/CopyButton/CopyButton.tsx#L2)
+
+<!-- Auto-update: 2025-10-22T08:24:34.779431 -->
